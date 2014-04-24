@@ -1,0 +1,25 @@
+p,bilabial,sordo,oclusiva
+b,bilabial,sonoro,oclusiva
+?,bilabial,sonoro,fricativa
+m,bilabial,sonoro,nasal
+?,labiodental,sonoro,nasal
+f,labiodental,sordo,fricativa
+t,dental,sordo,oclusiva
+d,dental,sonoro,oclusiva
+ð,dental,sonoro,fricativa
+n?,dental,sonoro,nasal
+n,alveolar,sonoro,nasal
+?,alveopalatal,sonoro,nasal
+? ,palatal,sonoro,nasal
+?,velar,sonoro,nasal
+z,alveolar,sonoro,fricativa
+s,alveolar,sordo,fricativa
+l,alveolar,sonoro,lateral
+?,alveolar,sonoro,líquidas vibrantes
+r,alveolar,sonoro,líquidas vibrantes
+?,alveopalatal,sordo,africada
+k,velar,sordo,oclusiva
+g,velar,sonoro,oclusiva
+?,velar,sonoro,fricativa
+x,velar,sordo,fricativa
+w,labiovelar,sonoro,dezlizada
